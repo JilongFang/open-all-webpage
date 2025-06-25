@@ -1,0 +1,14 @@
+{
+  "name": "openallwebpage",
+  "version": "1.0.0",
+  "description": "Open multiple URLs at once. Mobile-friendly, SEO optimized.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+} 
